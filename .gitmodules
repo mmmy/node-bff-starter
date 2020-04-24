@@ -1,0 +1,6 @@
+[submodule "proto-repos/proto-sample1"]
+	path = proto-repos/proto-sample1
+	url = git@github.com:mmmy/proto-sample1.git
+[submodule "proto-repos/proto-sample2"]
+	path = proto-repos/proto-sample2
+	url = git@github.com:mmmy/proto-sample2.git
